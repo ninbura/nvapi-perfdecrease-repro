@@ -11,7 +11,7 @@ Observed on an RTX 4090 with driver 621.14:
 - At the same moments NVML reports no thermal or power slowdown, and the graphics clock does not change.
 - World of Warcraft: Forever polls this API and caps the game at 60 FPS when it sees the flag.
 
-NVIDIA forum report: *link to be added*
+NVIDIA forum report: https://forums.developer.nvidia.com/t/nvidia-report-false-thermal-protection-from-nvapi-gpu-getperfdecreaseinfo/388207
 
 ## Run
 
